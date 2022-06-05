@@ -1,11 +1,5 @@
-def main():
-  # print("Keep it logically awesome.")
+git fetch origin
+git checkout 2-run-your-first-python-program
 
-  #f = open("quotes.txt")
-  #quotes = f.readlines()
-  #f.close()
 
-  #print(quotes)
 
-if __name__== "__main__":
-  main()
